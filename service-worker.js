@@ -3,8 +3,8 @@ const urlsToCache = [
   "./",
   "./index.html",
   "./manifest.json",
-  "https://cdn-icons-png.flaticon.com/512/891/891419.png",
-  "https://cdn-icons-png.flaticon.com/512/3144/3144456.png"
+  "https://img.icons8.com/?size=100&id=85080&format=png",
+  "https://cdn-icons-png.flaticon.com/512/6012/6012718.png",
 ];
 
 self.addEventListener("install", (event) => {
